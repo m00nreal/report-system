@@ -2,6 +2,7 @@
   "name": "claim-tickets",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://m00nreal.github.io/report-system",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.12",
     "@chakra-ui/react": "^1.6.0",
